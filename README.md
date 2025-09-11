@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Project[ SQL+POWERBI+PYTHON(Machine learning)]
+# 📊 Customer Churn Analysis Project]
 
 A comprehensive data analysis pipeline to predict customer churn using SQL, Python, and Power BI. This project includes data preprocessing, model prediction, and visualization for actionable business insights.
 
